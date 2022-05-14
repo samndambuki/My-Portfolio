@@ -1,0 +1,22 @@
+export const tech = [
+ {
+  name:'React',
+  iconName:'react'
+ },
+ {
+  name:'Ruby',
+  iconName:'ruby'
+ },
+ {
+  name:'Javascript',
+  iconName:'javascript'
+ },
+ {
+  name:'CSS3',
+  iconName:'css3'
+ },
+  {
+  name:'Github',
+  iconName:'github'
+ }
+]
